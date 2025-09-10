@@ -1,4 +1,4 @@
-<h1>Greetings</h1>
+<h4>Greetings</h4>
 
 <h6>"Sailors tell stories, Pirates make legends."<h6>
 
