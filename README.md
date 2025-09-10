@@ -8,9 +8,17 @@
 </p>
 
 .ׂ..................................................╰┈➤Main pony
-
-<h4>DNI</h4>
+<p align="Center">
+INT + W2I
+ </p>
+ <p align="Center">
+Anyone who watches Hannibal, Castlevania, and Good omen!
+ </p>
+ 
+ 
+<h4>DNI</h4> 
 <h6>Homophobic/Transphobic</h6>
 <h6>18+</h6>
 <h6>Racists</h6>
 𓊝
+
