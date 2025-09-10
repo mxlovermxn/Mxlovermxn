@@ -1,3 +1,5 @@
 ## Greetings
 
-![_ (3)](https://github.com/user-attachments/assets/545e49e5-c398-4b60-9174-a6aa6b0dab85)
+<p align="center">
+ <img width="300" height="300" src=(https://github.com/user-attachments/assets/0f8947e7-6049-498f-9e7a-9008c1ed9c92)>
+</p>
