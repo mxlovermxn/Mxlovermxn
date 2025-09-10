@@ -1,6 +1,8 @@
 ## Greetings
-[_ (3)](https://github.com/user-attachments/assets/dd85f9f8-1aef-41eb-bbdd-0cab2e588589)>
 
+<p align="center">
+ <img width="400" height="350" src=![e121336996bf573b80f6f897df6d8731](https://github.com/user-attachments/assets/d3b80432-7eab-444b-961f-76647c212f3d)
+</p>
 
 <!--
 **mxlovermxn/Mxlovermxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
