@@ -1,6 +1,7 @@
 <h4>Greetings</h4>
 
 <h6>"Sailors tell stories, Pirates make legends."<h6>
+<h6>Very into pirates!</h6>
  
 <p align="Left">
  <img width="200" height="300" src="https://github.com/user-attachments/assets/11533f83-89cc-4c34-8acf-6fb77812eadc">
