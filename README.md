@@ -1,6 +1,6 @@
 <h4>Greetings</h4>
 
-<h>"Sailors tell stories, Pirates make legends."<h7>
+<h7>"Sailors tell stories, Pirates make legends."<h7>
 <h6>Very into pirates!</h6>
 𓊝
  
@@ -12,14 +12,16 @@
 </p>
 
 ‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿╰┈➤Main pony‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
+
 <p align="Center">
-INT + W2I
+<h6>INT + W2I<h6>
  </p>
- <p align="Center">
+
+ <p align="left">
 Anyone who watches Hannibal, Castlevania, and Good omen!
  </p>
- 
- 
+‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
+
 <h4>DNI</h4> 
 <h6>Homophobic/Transphobic</h6>
 <h6>18+</h6>
