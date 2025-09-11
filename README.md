@@ -13,12 +13,12 @@
 
 ‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿╰┈➤Main pony‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
 
-<p align="Center">
-<h7>INT + W2I<h7>
+<p align="left">
+<h4>INT + W2I<h4>
  </p>
 
  <p align="left">
-Anyone who watches Hannibal, Castlevania, and Good omen!
+<h6>Anyone who watches Hannibal, Castlevania, and Good omen!<h6>
  </p>
 ‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
 
