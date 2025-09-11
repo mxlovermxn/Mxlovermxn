@@ -14,7 +14,7 @@
 ‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿╰┈➤Main pony‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿‿
 
 <p align="Center">
-<h6>INT + W2I<h6>
+<h7>INT + W2I<h7>
  </p>
 
  <p align="left">
